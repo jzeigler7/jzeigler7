@@ -1,0 +1,4 @@
+- I'm Jacob! I'm a second-year Georgia Tech CS student. 
+- I make apps and plugins and things of that sort.
+- You can reach me at jacobzeigler6@gmail.com
+- 
